@@ -1,0 +1,16 @@
+.wrapper{
+    width: 1200px;
+    margin: auto;
+}
+
+header{
+    width: 100%;
+    background: rgb(233, 126, 55);
+    color: white;
+}
+header h1{
+
+}
+/*
+Ctrl+shift+I
+*/
